@@ -1,0 +1,240 @@
+Traceback (most recent call last):
+  File "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\weather_update.py", line 5, in <module>
+    logging.basicConfig(
+  File "C:\Anaconda\Lib\logging\__init__.py", line 2050, in basicConfig
+    h = FileHandler(filename, mode,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1181, in __init__
+    StreamHandler.__init__(self, self._open())
+                                 ^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1213, in _open
+    return open_func(self.baseFilename, self.mode,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'C:\\Rumon\\DS23EC\\8. Python\\Kunskapskontroll 2\\Muhammad_Kunskapskontroll_2\\weather_update.log'
+Traceback (most recent call last):
+  File "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\weather_update.py", line 5, in <module>
+    logging.basicConfig(
+  File "C:\Anaconda\Lib\logging\__init__.py", line 2050, in basicConfig
+    h = FileHandler(filename, mode,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1181, in __init__
+    StreamHandler.__init__(self, self._open())
+                                 ^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1213, in _open
+    return open_func(self.baseFilename, self.mode,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'C:\\Rumon\\DS23EC\\8. Python\\Kunskapskontroll 2\\Muhammad_Kunskapskontroll_2\\weather_update.log'
+Traceback (most recent call last):
+  File "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\weather_update.py", line 5, in <module>
+    logging.basicConfig(
+  File "C:\Anaconda\Lib\logging\__init__.py", line 2050, in basicConfig
+    h = FileHandler(filename, mode,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1181, in __init__
+    StreamHandler.__init__(self, self._open())
+                                 ^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1213, in _open
+    return open_func(self.baseFilename, self.mode,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'C:\\Rumon\\DS23EC\\8. Python\\Kunskapskontroll 2\\Muhammad_Kunskapskontroll_2\\weather_update.log'
+Traceback (most recent call last):
+  File "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\weather_update.py", line 5, in <module>
+    logging.basicConfig(
+  File "C:\Anaconda\Lib\logging\__init__.py", line 2050, in basicConfig
+    h = FileHandler(filename, mode,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1181, in __init__
+    StreamHandler.__init__(self, self._open())
+                                 ^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1213, in _open
+    return open_func(self.baseFilename, self.mode,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'C:\\Rumon\\DS23EC\\8. Python\\Kunskapskontroll 2\\Muhammad_Kunskapskontroll_2\\weather_update.log'
+Traceback (most recent call last):
+  File "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\weather_update.py", line 5, in <module>
+    logging.basicConfig(
+  File "C:\Anaconda\Lib\logging\__init__.py", line 2050, in basicConfig
+    h = FileHandler(filename, mode,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1181, in __init__
+    StreamHandler.__init__(self, self._open())
+                                 ^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1213, in _open
+    return open_func(self.baseFilename, self.mode,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'C:\\Rumon\\DS23EC\\8. Python\\Kunskapskontroll 2\\Muhammad_Kunskapskontroll_2\\weather_update.log'
+Traceback (most recent call last):
+  File "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\weather_update.py", line 5, in <module>
+    logging.basicConfig(
+  File "C:\Anaconda\Lib\logging\__init__.py", line 2050, in basicConfig
+    h = FileHandler(filename, mode,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1181, in __init__
+    StreamHandler.__init__(self, self._open())
+                                 ^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1213, in _open
+    return open_func(self.baseFilename, self.mode,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'C:\\Rumon\\DS23EC\\8. Python\\Kunskapskontroll 2\\Muhammad_Kunskapskontroll_2\\weather_update.log'
+2024-09-23 09:18:08,417 - INFO - Weather update script started
+2024-09-23 09:18:13,419 - INFO - Weather update script completed
+Traceback (most recent call last):
+  File "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\weather_update.py", line 5, in <module>
+    logging.basicConfig(
+  File "C:\Anaconda\Lib\logging\__init__.py", line 2050, in basicConfig
+    h = FileHandler(filename, mode,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1181, in __init__
+    StreamHandler.__init__(self, self._open())
+                                 ^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1213, in _open
+    return open_func(self.baseFilename, self.mode,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'C:\\Rumon\\DS23EC\\8. Python\\Kunskapskontroll 2\\Muhammad_Kunskapskontroll_2\\weather_update.log'
+Traceback (most recent call last):
+  File "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\weather_update.py", line 5, in <module>
+    logging.basicConfig(
+  File "C:\Anaconda\Lib\logging\__init__.py", line 2050, in basicConfig
+    h = FileHandler(filename, mode,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1181, in __init__
+    StreamHandler.__init__(self, self._open())
+                                 ^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1213, in _open
+    return open_func(self.baseFilename, self.mode,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'C:\\Rumon\\DS23EC\\8. Python\\Kunskapskontroll 2\\Muhammad_Kunskapskontroll_2\\weather_update.log'
+Traceback (most recent call last):
+  File "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\weather_update.py", line 5, in <module>
+    logging.basicConfig(
+  File "C:\Anaconda\Lib\logging\__init__.py", line 2050, in basicConfig
+    h = FileHandler(filename, mode,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1181, in __init__
+    StreamHandler.__init__(self, self._open())
+                                 ^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1213, in _open
+    return open_func(self.baseFilename, self.mode,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'C:\\Rumon\\DS23EC\\8. Python\\Kunskapskontroll 2\\Muhammad_Kunskapskontroll_2\\weather_update.log'
+Traceback (most recent call last):
+  File "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\weather_update.py", line 5, in <module>
+    logging.basicConfig(
+  File "C:\Anaconda\Lib\logging\__init__.py", line 2050, in basicConfig
+    h = FileHandler(filename, mode,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1181, in __init__
+    StreamHandler.__init__(self, self._open())
+                                 ^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1213, in _open
+    return open_func(self.baseFilename, self.mode,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'C:\\Rumon\\DS23EC\\8. Python\\Kunskapskontroll 2\\Muhammad_Kunskapskontroll_2\\weather_update.log'
+Traceback (most recent call last):
+  File "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\weather_update.py", line 5, in <module>
+    logging.basicConfig(
+  File "C:\Anaconda\Lib\logging\__init__.py", line 2050, in basicConfig
+    h = FileHandler(filename, mode,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1181, in __init__
+    StreamHandler.__init__(self, self._open())
+                                 ^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1213, in _open
+    return open_func(self.baseFilename, self.mode,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'C:\\Rumon\\DS23EC\\8. Python\\Kunskapskontroll 2\\Muhammad_Kunskapskontroll_2\\weather_update.log'
+Traceback (most recent call last):
+  File "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\weather_update.py", line 5, in <module>
+    logging.basicConfig(
+  File "C:\Anaconda\Lib\logging\__init__.py", line 2050, in basicConfig
+    h = FileHandler(filename, mode,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1181, in __init__
+    StreamHandler.__init__(self, self._open())
+                                 ^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1213, in _open
+    return open_func(self.baseFilename, self.mode,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'C:\\Rumon\\DS23EC\\8. Python\\Kunskapskontroll 2\\Muhammad_Kunskapskontroll_2\\weather_update.log'
+Traceback (most recent call last):
+  File "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\weather_update.py", line 5, in <module>
+    logging.basicConfig(
+  File "C:\Anaconda\Lib\logging\__init__.py", line 2050, in basicConfig
+    h = FileHandler(filename, mode,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1181, in __init__
+    StreamHandler.__init__(self, self._open())
+                                 ^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1213, in _open
+    return open_func(self.baseFilename, self.mode,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'C:\\Rumon\\DS23EC\\8. Python\\Kunskapskontroll 2\\Muhammad_Kunskapskontroll_2\\weather_update.log'
+Traceback (most recent call last):
+  File "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\weather_update.py", line 5, in <module>
+    logging.basicConfig(
+  File "C:\Anaconda\Lib\logging\__init__.py", line 2050, in basicConfig
+    h = FileHandler(filename, mode,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1181, in __init__
+    StreamHandler.__init__(self, self._open())
+                                 ^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1213, in _open
+    return open_func(self.baseFilename, self.mode,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'C:\\Rumon\\DS23EC\\8. Python\\Kunskapskontroll 2\\Muhammad_Kunskapskontroll_2\\weather_update.log'
+2024-09-23 10:45:47,903 - INFO - Weather update script started
+2024-09-23 10:45:52,917 - INFO - Weather update script completed
+Traceback (most recent call last):
+  File "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\weather_update.py", line 5, in <module>
+    logging.basicConfig(
+  File "C:\Anaconda\Lib\logging\__init__.py", line 2050, in basicConfig
+    h = FileHandler(filename, mode,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1181, in __init__
+    StreamHandler.__init__(self, self._open())
+                                 ^^^^^^^^^^^^
+  File "C:\Anaconda\Lib\logging\__init__.py", line 1213, in _open
+    return open_func(self.baseFilename, self.mode,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'C:\\Rumon\\DS23EC\\8. Python\\Kunskapskontroll 2\\Muhammad_Kunskapskontroll_2\\weather_update.log'
+2024-09-23 10:49:08,740 - INFO - Weather update script started
+2024-09-23 10:49:13,743 - INFO - Weather update script completed
+2024-09-23 10:49:25,407 - INFO - Weather update script started
+2024-09-23 10:49:30,407 - INFO - Weather update script completed
+2024-09-23 10:49:34,308 - INFO - Weather update script started
+2024-09-23 10:49:39,309 - INFO - Weather update script completed
+2024-09-23 10:49:54,958 - INFO - Weather update script started
+2024-09-23 10:49:59,967 - INFO - Weather update script completed
+2024-09-23 10:51:12,817 - INFO - Weather update script started
+2024-09-23 10:51:17,818 - INFO - Weather update script completed
+2024-09-23 11:33:44,723 - INFO - Weather update script started
+2024-09-23 11:33:49,725 - INFO - Weather update script completed
+2024-09-25 22:32:22,740 ETL process started.
+2024-09-25 22:32:22,834 Data fetched successfully from API.
+2024-09-25 22:32:22,834 Data extraction completed.
+2024-09-25 22:32:22,834 Transformed data - Location: Stockholm, Temperature: 13.510000000000048, Feels Like: 12.770000000000039, Min Temp: 12.840000000000032, Max Temp: 13.920000000000016
+2024-09-25 22:32:22,834 Data transformation completed.
+2024-09-25 22:32:27,038 SQL table updated successfully
+2024-09-25 22:32:27,038 Data loading completed.
+2024-09-25 22:33:25,064 ETL process started.
+2024-09-25 22:33:25,128 Data fetched successfully from API.
+2024-09-25 22:33:25,130 Data extraction completed.
+2024-09-25 22:33:25,130 Transformed data - Location: Stockholm, Temperature: 13.510000000000048, Feels Like: 12.770000000000039, Min Temp: 12.840000000000032, Max Temp: 13.920000000000016
+2024-09-25 22:33:25,130 Data transformation completed.
+2024-09-25 22:33:29,320 SQL table updated successfully
+2024-09-25 22:33:29,322 Data loading completed.
+2024-09-25 22:42:17,507 ETL process started.
+2024-09-25 22:42:17,595 Data fetched successfully from API.
+2024-09-25 22:42:17,596 Data extraction completed.
+2024-09-25 22:42:17,596 Transformed data - Location: Stockholm, Temperature: 12.970000000000027, Feels Like: 12.200000000000045, Min Temp: 12.840000000000032, Max Temp: 13.360000000000014
+2024-09-25 22:42:17,596 Data transformation completed.
+2024-09-25 22:42:21,772 SQL table updated successfully
+2024-09-25 22:42:21,772 Data loading completed.
+2024-09-25 22:42:29,005 Data fetched successfully from API.
+2024-09-25 22:42:39,843 Transformed data - Location: Stockholm, Temperature: 15.0, Feels Like: 12.170000000000016, Min Temp: 13.890000000000043, Max Temp: 16.670000000000016
+2024-09-25 22:42:54,873 SQL table updated successfully
+2024-09-25 22:43:03,153 Data fetched successfully from API.
+2024-09-25 22:43:03,154 Transformed data - Location: Stockholm, Temperature: 15.0, Feels Like: 12.170000000000016, Min Temp: 13.890000000000043, Max Temp: 16.670000000000016
+2024-09-25 22:43:03,154 SQL table updated successfully
+2024-09-25 22:43:22,239 - INFO - Weather update script started
+2024-09-25 22:43:27,250 - INFO - Weather update script completed

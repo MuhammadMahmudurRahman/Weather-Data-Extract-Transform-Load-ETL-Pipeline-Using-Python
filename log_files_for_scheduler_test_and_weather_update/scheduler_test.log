@@ -1,0 +1,211 @@
+2024-09-22 02:02:06,130 - INFO - Command to create task: schtasks /create /tn PromptUserTask /tr "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\open_task_scheduler.bat" /sc once /st 00:00 /f
+2024-09-22 02:02:06,183 - INFO - Task 'PromptUserTask' created successfully. You can now set the actual time in Task Scheduler.
+2024-09-22 02:05:06,174 - INFO - Command to create task: schtasks /create /tn PromptUserTask /tr "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\open_task_scheduler.bat" /sc once /st 00:00 /f
+2024-09-22 02:05:06,217 - INFO - Task 'PromptUserTask' created successfully. You can now set the actual time in Task Scheduler.
+Running the scheduled Python script 
+Finished running the scheduled Python script 
+Running the scheduled Python script 
+Finished running the scheduled Python script 
+2024-09-22 02:10:35,064 - ERROR - Invalid time format. Please use HH:MM in 24-hour format.
+2024-09-22 02:11:18,824 - INFO - Command to create task: schtasks /create /tn PromptUserTask /tr "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\open_task_scheduler.bat" /sc once /st 00:00 /f
+2024-09-22 02:11:18,898 - INFO - Task 'PromptUserTask' created successfully. You can now set the actual time in Task Scheduler.
+Running the scheduled Python script 
+Finished running the scheduled Python script 
+2024-09-22 02:13:41,159 - INFO - Command to create task: schtasks /create /tn PromptUserTask /tr "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\open_task_scheduler.bat" /sc once /st 00:00 /f
+2024-09-22 02:13:41,215 - INFO - Task 'PromptUserTask' created successfully. You can now set the actual time in Task Scheduler.
+2024-09-22 02:13:57,657 - INFO - Command to create task: schtasks /create /tn PromptUserTask /tr "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\open_task_scheduler.bat" /sc once /st 00:00 /f
+2024-09-22 02:13:57,705 - INFO - Task 'PromptUserTask' created successfully. You can now set the actual time in Task Scheduler.
+2024-09-22 02:19:26,950 - INFO - Command to create task: schtasks /create /tn PromptUserTask /tr "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\open_task_scheduler.bat" /sc once /st 00:00 /f
+2024-09-22 02:19:26,994 - INFO - Task 'PromptUserTask' created successfully. You can now set the actual time in Task Scheduler.
+Running the scheduled Python script 
+Finished running the scheduled Python script 
+Running the scheduled Python script 
+Finished running the scheduled Python script 
+Running the scheduled Python script 
+Finished running the scheduled Python script 
+Running the scheduled Python script 
+Finished running the scheduled Python script 
+Running the scheduled Python script 
+Finished running the scheduled Python script 
+Running the scheduled Python script 
+Finished running the scheduled Python script 
+Running the scheduled Python script 
+Finished running the scheduled Python script 
+Running the scheduled Python script 
+Finished running the scheduled Python script 
+Running the scheduled Python script 
+Finished running the scheduled Python script 
+Running the scheduled Python script 
+Finished running the scheduled Python script 
+Running the scheduled Python script 
+Finished running the scheduled Python script 
+2024-09-22 09:35:22,705 - INFO - Command to create task: schtasks /create /tn PromptUserTask /tr "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\open_task_scheduler.bat" /sc once /st 00:00 /f
+2024-09-22 09:35:22,771 - INFO - Task 'PromptUserTask' created successfully. You can now set the actual time in Task Scheduler.
+2024-09-22 09:52:12,700 - INFO - Command to create task: schtasks /create /tn PromptUserTask /tr "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\open_task_scheduler.bat" /sc once /st 00:00 /f
+2024-09-22 09:52:12,815 - INFO - Task 'PromptUserTask' created successfully. You can now set the actual time in Task Scheduler.
+Running the scheduled Python script 
+Finished running the scheduled Python script 
+Running the scheduled Python script 
+Finished running the scheduled Python script 
+Running the scheduled Python script 
+Finished running the scheduled Python script 
+Running the scheduled Python script 
+Finished running the scheduled Python script 
+Running the scheduled Python script 
+Finished running the scheduled Python script 
+Running the scheduled Python script 
+Finished running the scheduled Python script 
+[2024-09-22 10:49:19,07] Running the scheduled Python script 
+[2024-09-22 10:49:19,09] Finished running the scheduled Python script 
+[2024-09-22 10:50:01,30] Running the scheduled Python script 
+[2024-09-22 10:50:01,31] Finished running the scheduled Python script 
+[2024-09-22 10:57:22,96] Running the scheduled Python script 
+[2024-09-22 10:57:22,99] Finished running the scheduled Python script 
+[2024-09-22 11:01:23,56] Running the scheduled Python script 
+[2024-09-22 11:01:23,58] Finished running the scheduled Python script 
+[2024-09-22 11:01:50,60] Running the scheduled Python script 
+[2024-09-22 11:01:50,62] Finished running the scheduled Python script 
+[2024-09-22 11:02:06,43] Running the scheduled Python script 
+[2024-09-22 11:02:06,46] Finished running the scheduled Python script 
+[2024-09-22 11:03:09,85] Running the scheduled Python script 
+[2024-09-22 11:03:09,87] Finished running the scheduled Python script 
+[2024-09-22 11:03:25,41] Running the scheduled Python script 
+[2024-09-22 11:03:25,42] Finished running the scheduled Python script 
+2024-09-22 11:22:44,844 - INFO - Command to create task: schtasks /create /tn PromptUserTask /tr "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\open_task_scheduler.bat" /sc once /st 00:00 /f
+2024-09-22 11:22:44,939 - INFO - Task 'PromptUserTask' created successfully. You can now set the actual time in Task Scheduler.
+[2024-09-22 11:23:02,09] Running the scheduled Python script 
+[2024-09-22 11:23:14,14] Running the scheduled Python script 
+[2024-09-22 11:24:54,77] Running the scheduled Python script 
+[2024-09-22 11:24:54,80] Finished running the scheduled Python script 
+[2024-09-22 11:25:06,09] Running the scheduled Python script 
+[2024-09-22 11:25:06,12] Finished running the scheduled Python script 
+[2024-09-22 11:25:09,89] Running the scheduled Python script 
+[2024-09-22 11:25:09,92] Finished running the scheduled Python script 
+[2024-09-22 11:25:12,68] Running the scheduled Python script 
+[2024-09-22 11:25:12,71] Finished running the scheduled Python script 
+[2024-09-22 11:25:14,91] Running the scheduled Python script 
+[2024-09-22 11:25:14,92] Finished running the scheduled Python script 
+[2024-09-22 11:25:37,36] Running the scheduled Python script 
+[2024-09-22 11:25:37,39] Finished running the scheduled Python script 
+[2024-09-22 11:25:42,51] Running the scheduled Python script 
+[2024-09-22 11:25:42,53] Finished running the scheduled Python script 
+[2024-09-22 11:25:45,71] Running the scheduled Python script 
+[2024-09-22 11:25:45,73] Finished running the scheduled Python script 
+[2024-09-22 11:25:53,07] Running the scheduled Python script 
+[2024-09-22 11:25:53,09] Finished running the scheduled Python script 
+[2024-09-22 11:25:55,35] Running the scheduled Python script 
+[2024-09-22 11:25:55,36] Finished running the scheduled Python script 
+[2024-09-22 11:26:02,61] Running the scheduled Python script 
+[2024-09-22 11:26:02,64] Finished running the scheduled Python script 
+[2024-09-22 11:26:13,82] Running the scheduled Python script 
+[2024-09-22 11:26:13,86] Finished running the scheduled Python script 
+[2024-09-22 11:26:23,17] Running the scheduled Python script 
+[2024-09-22 11:26:23,19] Finished running the scheduled Python script 
+[2024-09-22 11:27:45,17] Running the scheduled Python script 
+[2024-09-22 11:27:45,19] Finished running the scheduled Python script 
+[2024-09-22 11:28:06,91] Running the scheduled Python script 
+[2024-09-22 11:28:06,93] Finished running the scheduled Python script 
+[2024-09-22 11:28:17,28] Running the scheduled Python script 
+[2024-09-22 11:28:17,30] Finished running the scheduled Python script 
+[2024-09-22 11:28:26,62] Running the scheduled Python script 
+[2024-09-22 11:28:26,63] Finished running the scheduled Python script 
+[2024-09-22 11:28:34,65] Running the scheduled Python script 
+[2024-09-22 11:28:34,66] Finished running the scheduled Python script 
+[2024-09-22 11:28:35,02] Running the scheduled Python script 
+[2024-09-22 11:28:35,04] Finished running the scheduled Python script 
+2024-09-22 11:30:10,186 - INFO - Command to create task: schtasks /create /tn PromptUserTask /tr "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\open_task_scheduler.bat" /sc once /st 00:00 /f
+2024-09-22 11:30:10,265 - INFO - Task 'PromptUserTask' created successfully. You can now set the actual time in Task Scheduler.
+[2024-09-22 11:30:41,97] Running the scheduled Python script 
+[2024-09-22 11:30:41,99] Finished running the scheduled Python script 
+[2024-09-22 11:31:01,13] Running the scheduled Python script 
+[2024-09-22 11:31:01,15] Finished running the scheduled Python script 
+[2024-09-22 11:33:13,78] Running the scheduled Python script 
+[2024-09-22 11:33:13,80] Finished running the scheduled Python script 
+2024-09-22 11:33:57,879 - INFO - Command to create task: schtasks /create /tn PromptUserTask /tr "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\open_task_scheduler.bat" /sc once /st 00:00 /f
+2024-09-22 11:33:57,982 - INFO - Task 'PromptUserTask' created successfully. You can now set the actual time in Task Scheduler.
+[2024-09-22 11:34:20,96] Running the scheduled Python script 
+[2024-09-22 11:34:21,01] Finished running the scheduled Python script 
+[2024-09-22 11:36:29,40] Running the scheduled Python script 
+[2024-09-22 11:36:29,42] Finished running the scheduled Python script 
+[2024-09-22 11:37:02,91] Running the scheduled Python script 
+[2024-09-22 11:37:02,94] Finished running the scheduled Python script 
+[2024-09-22 11:38:37,36] Running the scheduled Python script 
+[2024-09-22 11:38:37,38] Finished running the scheduled Python script 
+[2024-09-22 11:40:11,30] Running the scheduled Python script 
+[2024-09-22 11:40:11,31] Finished running the scheduled Python script 
+[2024-09-22 11:41:32,44] Running the scheduled Python script 
+[2024-09-22 11:41:32,45] Finished running the scheduled Python script 
+[2024-09-22 11:42:49,20] Running the scheduled Python script 
+[2024-09-22 11:42:49,21] Finished running the scheduled Python script 
+2024-09-22 11:43:08,059 - INFO - Command to create task: schtasks /create /tn PromptUserTask /tr "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\open_task_scheduler.bat" /sc once /st 00:00 /f
+2024-09-22 11:43:08,184 - INFO - Task 'PromptUserTask' created successfully. You can now set the actual time in Task Scheduler.
+[2024-09-22 11:43:17,11] Running the scheduled Python script 
+[2024-09-22 11:43:17,15] Finished running the scheduled Python script 
+[2024-09-22 11:44:25,49] Running the scheduled Python script 
+[2024-09-22 11:44:25,50] Finished running the scheduled Python script 
+[2024-09-22 11:45:14,06] Running the scheduled Python script 
+[2024-09-22 11:45:14,07] Finished running the scheduled Python script 
+[2024-09-22 11:45:43,09] Running the scheduled Python script 
+[2024-09-22 11:45:43,11] Finished running the scheduled Python script 
+[2024-09-22 11:46:19,85] Running the scheduled Python script 
+[2024-09-22 11:46:19,88] Finished running the scheduled Python script 
+[2024-09-22 11:46:52,87] Running the scheduled Python script 
+[2024-09-22 11:46:52,89] Finished running the scheduled Python script 
+[2024-09-22 11:47:26,67] Running the scheduled Python script 
+[2024-09-22 11:47:26,70] Finished running the scheduled Python script 
+[2024-09-22 11:49:05,31] Running the scheduled Python script 
+[2024-09-22 11:49:05,33] Finished running the scheduled Python script 
+[2024-09-22 11:49:19,42] Running the scheduled Python script 
+[2024-09-22 11:49:19,45] Finished running the scheduled Python script 
+[2024-09-22 11:50:49,13] Running the scheduled Python script 
+[2024-09-22 11:50:49,14] Finished running the scheduled Python script 
+[2024-09-22 11:51:05,63] Running the scheduled Python script 
+[2024-09-22 11:51:05,67] Finished running the scheduled Python script 
+[2024-09-22 11:51:27,17] Running the scheduled Python script 
+[2024-09-22 11:51:27,19] Finished running the scheduled Python script 
+[2024-09-22 11:53:05,36] Running the scheduled Python script 
+[2024-09-22 11:53:05,39] Finished running the scheduled Python script 
+[2024-09-22 11:53:32,93] Running the scheduled Python script 
+[2024-09-22 11:53:32,97] Finished running the scheduled Python script 
+[2024-09-22 11:54:07,53] Running the scheduled Python script 
+[2024-09-22 11:54:07,54] Finished running the scheduled Python script 
+[2024-09-22 11:56:25,83] Running the scheduled Python script 
+[2024-09-22 11:56:25,85] Finished running the scheduled Python script 
+[2024-09-22 11:58:35,49] Running the scheduled Python script 
+[2024-09-22 11:58:35,53] Finished running the scheduled Python script 
+[2024-09-22 11:59:01,24] Running the scheduled Python script 
+[2024-09-22 11:59:01,27] Finished running the scheduled Python script 
+[2024-09-22 12:00:04,76] Running the scheduled Python script 
+[2024-09-22 12:00:04,77] Finished running the scheduled Python script 
+[2024-09-22 12:02:11,46] Running the scheduled Python script 
+[2024-09-22 12:02:11,49] Finished running the scheduled Python script 
+[2024-09-22 12:03:04,40] Running the scheduled Python script 
+[2024-09-22 12:03:04,44] Finished running the scheduled Python script 
+[2024-09-22 12:03:39,57] Running the scheduled Python script 
+[2024-09-22 12:03:39,60] Finished running the scheduled Python script 
+[2024-09-23  9:59:12,72] Running the scheduled Python script 
+[2024-09-23  9:59:12,73] Finished running the scheduled Python script 
+[2024-09-23  9:59:33,93] Running the scheduled Python script 
+[2024-09-23  9:59:33,95] Finished running the scheduled Python script 
+[2024-09-23 10:00:03,26] Running the scheduled Python script 
+[2024-09-23 10:00:03,26] Finished running the scheduled Python script 
+[2024-09-23 10:01:01,18] Running the scheduled Python script 
+[2024-09-23 10:01:01,20] Finished running the scheduled Python script 
+[2024-09-23 10:01:34,21] Running the scheduled Python script 
+[2024-09-23 10:01:34,21] Finished running the scheduled Python script 
+[2024-09-23 10:43:35,23] Running the scheduled Python script 
+[2024-09-23 10:43:35,25] Finished running the scheduled Python script 
+[2024-09-23 10:44:01,35] Running the scheduled Python script 
+[2024-09-23 10:44:01,36] Finished running the scheduled Python script 
+[2024-09-23 10:45:00,75] Running the scheduled Python script 
+[2024-09-23 10:45:00,77] Finished running the scheduled Python script 
+2024-09-23 10:45:44,180 - INFO - Command to create task: schtasks /create /tn PromptUserTask /tr "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\open_task_scheduler.bat" /sc once /st 00:00 /f
+2024-09-23 10:45:44,235 - INFO - Task 'PromptUserTask' created successfully. You can now set the actual time in Task Scheduler.
+[2024-09-23 10:47:00,48] Running the scheduled Python script 
+[2024-09-23 10:47:00,50] Finished running the scheduled Python script 
+2024-09-23 11:30:08,045 - INFO - Command to create task: schtasks /create /tn PromptUserTask /tr "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\open_task_scheduler.bat" /sc once /st 00:00 /f
+2024-09-23 11:30:08,103 - INFO - Task 'PromptUserTask' created successfully. You can now set the actual time in Task Scheduler.
+2024-09-23 11:44:45,597 - INFO - Command to create task: schtasks /create /tn PromptUserTask /tr "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\open_task_scheduler.bat" /sc once /st 00:00 /f
+2024-09-23 11:44:45,644 - INFO - Task 'PromptUserTask' created successfully. You can now set the actual time in Task Scheduler.
+2024-09-25 22:43:12,816 - INFO - Command to create task: schtasks /create /tn PromptUserTask /tr "C:\Rumon\DS23EC\8. Python\Kunskapskontroll 2\Muhammad_Kunskapskontroll_2\open_task_scheduler.bat" /sc once /st 00:00 /f
+2024-09-25 22:43:12,873 - INFO - Task 'PromptUserTask' created successfully. You can now set the actual time in Task Scheduler.
