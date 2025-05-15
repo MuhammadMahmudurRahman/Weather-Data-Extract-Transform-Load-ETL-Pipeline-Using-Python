@@ -1,8 +1,10 @@
-## Automation Project Using Python
+# Weather Data Extract, Transform, Load (ETL) Pipeline Using Python
 
-### Weather Data Extract, Transform, Load (ETL) Pipeline Using Python
 
-#### A Python-based ETL pipeline that extracts, transforms, and loads weather data, with automated scheduling and monitoring.
+
+## A Python-based ETL pipeline that extracts, transforms, and loads weather data, with automated scheduling and monitoring.
+
+
 
 • main.py: Orchestrates the ETL process, ensuring the proper sequence and centralized management.
 
