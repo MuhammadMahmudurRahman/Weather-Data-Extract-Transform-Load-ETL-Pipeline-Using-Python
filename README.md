@@ -4,6 +4,8 @@
 
 ## A Python-based ETL pipeline that extracts, transforms, and loads weather data, with automated scheduling and monitoring.
 
+### ETL Pipeline Components:
+
 
 
 • main.py: Orchestrates the ETL process, ensuring the proper sequence and centralized management.
